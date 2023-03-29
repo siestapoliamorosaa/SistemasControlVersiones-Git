@@ -1,1 +1,4 @@
-Aquí recogeremos los comandos más utilizados para gestionar las ramas de un repositorio.
+Estos son los comandos utilizados para crear, unir y eliminar ramas: 
+1. Git branch 
+2. Git merge 
+3. Git branch -d
